@@ -1,6 +1,6 @@
 # Object-Oriented Programming - C++
 
-This repository contains my C++ Object-Oriented Programming work, including my assignment and quiz.
+This repository contains my C++ Object-Oriented Programming work, including my assignment and quizz.
 
 ## Contents
 
@@ -12,8 +12,8 @@ Object-Oriented-Programming-cpp/
 ├── Assignment-26-March-2026/
 │   └── main.cpp
 │
-└── Quiz/
-    └── quiz.cpp
+└── Quizz/
+    └── quizz.cpp
 ```
 
 ---
@@ -49,9 +49,9 @@ The program displays the profile of each hero and then compares their attack pow
 
 ---
 
-## Quiz
+## Quizz
 
-This quiz is based on a ride fare system using inheritance in C++.
+This quizz is based on a ride fare system using inheritance in C++.
 
 ### Description
 
